@@ -1,0 +1,4 @@
+set up the Express server, 
+connect it to the MongoDB database using Mongoose, 
+and use the Body-Parser middleware to parse incoming requests.
+include the routesso that Express knows how to handle incoming requests.

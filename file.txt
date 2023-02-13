@@ -1,0 +1,4 @@
+To run
+
+Start the Express server by running 
+The command "npm run dev" in the terminal.
